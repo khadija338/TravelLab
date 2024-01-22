@@ -1,2 +1,2 @@
 # TravelLab
-Author : Khadija Tasnim
+Author : Khadija Tasnim Khushi
